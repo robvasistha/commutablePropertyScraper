@@ -1,0 +1,11 @@
+*.pak
+*.info
+*.deb
+*.zip
+*.so
+*.dat
+*.1
+*.pb
+*.json
+*.js
+chrome-linux/
