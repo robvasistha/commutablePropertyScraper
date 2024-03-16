@@ -9,3 +9,4 @@
 *.json
 *.js
 chrome-linux/
+constants.py
